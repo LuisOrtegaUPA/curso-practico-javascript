@@ -26,3 +26,6 @@
 ## Proyecto Final: Salarios
 
 - Primer paso: Definir objetos
+- Segundo paso: Defnición de funciones helpers
+- Tercer paso: Creación de funciones principales
+- Cuarto paso: Definir resultados finales
